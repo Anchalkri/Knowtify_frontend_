@@ -1,4 +1,4 @@
-/*import React from "react"
+import React from "react"
 
 import FoundingStory from "../assets/Images/FoundingStory.png"
 import BannerImage1 from "../assets/Images/aboutus1.webp"
@@ -22,7 +22,7 @@ const About = () => {
             Driving Innovation in Online Education for a
             <HighlightText text={"Brighter Future"} />
             <p className="mx-auto mt-3 text-center text-base font-medium text-richblack-300 lg:w-[95%]">
-              Studynotion is at the forefront of driving innovation in online
+              Knowtify is at the forefront of driving innovation in online
               education. We're passionate about creating a brighter future by
               offering cutting-edge courses, leveraging emerging technologies,
               and nurturing a vibrant learning community.
@@ -110,17 +110,17 @@ const About = () => {
       </section>
 
       <div className="relative mx-auto my-20 flex w-11/12 max-w-maxContent flex-col items-center justify-between gap-8 bg-richblack-900 text-white">
-        {/* Reviws from Other Learner 
+         Reviws from Other Learner 
         <h1 className="text-center text-4xl font-semibold mt-8">
           Reviews from other learners
         </h1>
-        {/* <ReviewSlider /> 
+         <ReviewSlider /> 
         <ReviewSlider />
       </div>
-      {/* <Footer /> 
-      <Footer />
+       <Footer /> 
+      
     </div>
   )
 }
 
-export default About */
+export default About 
